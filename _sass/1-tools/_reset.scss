@@ -25,3 +25,13 @@ li > {
   }
 
 }
+
+
+/**
+ * Remove default table spacing.
+ */
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
