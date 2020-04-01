@@ -2,7 +2,8 @@ title: 우리동네 아파트 정보
 logo:  # you can add own logo.
 description: 아파트 정보, 실거래가 정보, 가격/거래량 순위 제공
 # baseurl: "/"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://apt-info.com'
+
 
 # Author Settings
 author:
