@@ -28,12 +28,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+permalink: /:categories/:title/
 
 include:
   - _pages
